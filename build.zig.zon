@@ -1,0 +1,19 @@
+.{
+    .name = .mman_win32,
+    .version = "0.0.0",
+    .fingerprint = 0x2386fa3651109a32, // Changing this has security and trust implications.
+    .minimum_zig_version = "0.14.0",
+    .dependencies = .{
+        .mman_win32 = .{
+            .url = "https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/mman-win32/source-archive.zip",
+            .hash = "122083bc6a51db333ac841c27eb47a83b11931a42eb0642a3191877b28663125894d",
+        },
+    },
+    .paths = .{
+        "build.zig.zon",
+        "build.zig",
+        "LICENSE",
+        "README.md",
+        "test.c",
+    },
+}
