@@ -6,7 +6,7 @@
     .dependencies = .{
         .mman_win32 = .{
             .url = "https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/mman-win32/source-archive.zip",
-            .hash = "122083bc6a51db333ac841c27eb47a83b11931a42eb0642a3191877b28663125894d",
+            .hash = "N-V-__8AAIWhAACDvGpR2zM6yEHCfrR6g7EZMaQusGQqMZGH",
         },
     },
     .paths = .{
